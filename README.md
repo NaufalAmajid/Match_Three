@@ -1,6 +1,6 @@
 # Tugas Chapter 6 - Match Three
 
-<h3>File Build StandAlone ada di <a href = "https://github.com/NaufalAmajid/Match_Three/releases/tag/v1.0">Release</a> --> TowerDefend.zip </h3>
+<h3>File Build StandAlone ada di <a href = "https://github.com/NaufalAmajid/Match_Three/releases/tag/v1.0">Release</a> --> Match 3.zip </h3>
 
 <p>
 Buatlah game match three sesuai dengan materi!
